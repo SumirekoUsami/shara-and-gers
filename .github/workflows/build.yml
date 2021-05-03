@@ -13,10 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
-    - name: Validate composer.json and composer.lock
-      run: composer validate --strict
-      working-directory: website
-
     - name: Install dependencies
       run: composer install --prefer-dist --no-progress
       working-directory: website
@@ -30,6 +26,7 @@ jobs:
         mkdir dist\resources
         xcopy resources dist\resources /E
         php build.php
+    
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.1.1
       with:

@@ -1,0 +1,46 @@
+name: Build website
+
+on:
+  push:
+    branches: [ mainline ]
+  pull_request:
+    branches: [ mainline ]
+
+jobs:
+  build:
+    runs-on: windows-2016
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: chdir() to website
+      run: cd website
+      
+    - name: Validate composer.json and composer.lock
+      run: composer validate --strict
+
+    - name: Cache Composer packages
+      id: composer-cache
+      uses: actions/cache@v2
+      with:
+        path: vendor
+        key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-php-
+
+    - name: Install dependencies
+      run: composer install --prefer-dist --no-progress
+    
+    - name: Build website
+      run: |
+        mkdir tmp
+        mkdir dist
+        mkdir dist\tags
+        mkdir dist\resources
+        xcopy resources dist\resources /E
+        php build.php
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@4.1.1
+      with:
+          branch: gh-pages
+          folder: build

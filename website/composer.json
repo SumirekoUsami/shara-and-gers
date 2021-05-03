@@ -1,8 +1,0 @@
-{
-    "require": {
-        "phptal/phptal": "^1.5",
-        "nette/utils": "^3.2",
-        "netcarver/textile": "^3.7",
-        "yosymfony/toml": "^1.0"
-    }
-}

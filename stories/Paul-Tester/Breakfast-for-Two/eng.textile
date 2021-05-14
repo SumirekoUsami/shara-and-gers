@@ -1,0 +1,132 @@
+Title: Breakfast for Two
+
+By: Paul Tester
+
+As 1999 drew to a close, the directors of CMG Trading became more and more concerned about the Millennium bug and how their elaborate computerised systems would be affected. Vice-president for IT, Godfrey Styles, had hardly written a line of code in his life, but was a consummate office politician, and believed in giving the board what they wanted. He kept his position because the computer systems worked, and they worked because of the abilities of his staff. Chief programmer Anita was nothing short of a software genius, a retiring, mousy little girl in her late thirties, who wanted nothing more from life than to be left in peace to devise ever more elegant software solutions to any problem she was given.
+
+Her assistant Ron was over fifty, positively ancient for a programmer, but excelled as department administrator, protecting Anita from the office politics and intrigue, and organising the team of junior programmers. Godfrey's instructions to his department were simple, and calculated to cover himself against any possible recriminations. As many people as necessary should work over the millennium new year to ensure that there were no problems with the system. Anita and Ron assured him that this would be done, and then resigned themselves to having to work over the millennium, though they could see no need for any of the more junior staff to be present, as they did not anticipate any trouble.
+
+The evening of 31st December was a day when all the computer staff were keen to leave early, so the system was virtually idle by 7 p.m., when Anita and Ron were due to begin their nights work. While they waited for the last jobs of the 20th century to finish, Ron had organised microwave dinners for them, and popped open a bottle of champagne.
+
+"Is it wise to start drinking so early?" questioned Anita, "we don't want to be found half-cut when the system crashes at midnight."
+
+"One glass won't hurt," replied Ron, "and besides, who says the system is going to crash?"
+
+"You know as well as I do," said Anita, " that there is nothing in our system more than 5 years old, and I have never allowed anyone to use two figure years ever, that's one of my inviolable rules. Besides, we ran a 99/2000 simulation last new year, and two more since over holiday weekends, and nothing went wrong. Nothing is absolutely certain, but this is a near as you will get. Of course, we could get a CPU hardware failure at 00,02 and nobody would believe it was not the millennium bug."
+
+"True," acknowledged Ron, "it almost makes me feel guilty about taking the huge bonus 'God' is paying for us to work tonight. To tell the truth, I really cannot get to worked up about celebrating anyway, so this isn't really a hardship." Ron's wife had died some years earlier, and with no children he had no great desire to spend New Year with his brother-in law's family. "I feel the same about this New Millennium thing, I really am glad of an excuse to miss it," agreed Anita. "I've got lots of well meaning married girl friends who cannot understand that I am happy with my life. Working means that I have a genuine reason for not going to their parties and meeting some man that they know will be just right for me. Here's to 'God' and his Millennium bonus." She raised her glass of champagne in the vague direction of the board room. It was, she thought, remarkably good champagne, and very easy to drink. She could not resist refilling her glass as they went back into the computer room security area.
+
+As he followed her into the lift, Ron though that he had never seen Anita casually dressed before. Normally she wore formal business clothes, but tonight she was wearing a smart, well tailored pair of faded jeans, not skin- tight, but well suited to her slight, boyish figure. If she made the effort, though Ron, she could be really attractive, but it seemed that she was not interested in attracting men.
+
+The system was in idle mode, all job runs finished and waiting for more input. Anita and Ron began the routine they had planned. Ron checking all the terminals and peripherals, making sure that no joker had left anything running that would simulate a Y2K crash, while Anita began a full system test with all results printed out, verifying that everything was correct before midnight. Everything was set up and running by 8 o'clock, and it would be over three hours before the tests were finished.
+
+At eleven o'clock Anita and Ron took the champagne up to the main computer room and they watched to end of the system tests together. For the rest of the night they would be using the supervisor's terminals in the secure computer room, not their own desk terminals. Everything was working, and Ron reported that he had disconnected all the modems and external links. These could be re-instated once the main system was proved to have passed the millennium. Finishing her drink, Anita excused herself to visit the loo, and on her return found that Ron had refilled her glass. Anita's terminal displayed the time as they toasted the new millennium, then they got down to work, proving that their system had survived the change to year 2000. Everything appeared to be correct as Anita began yet another set of system tests and Ron prepared to phone Godfrey to let him know that it seemed probable that their system was OK.
+
+Ron looked puzzled as he tried to get an outside line, then tried the other phone next to Anita's terminal.
+
+"No dial tone, it seems as if the whole internal exchange is down," he reported to Anita. "It can't be a coincidence, looks as if we have a Y2K bug after all, even if its not our responsibility. I'll go down to the main switchboard and manually switch a line through to here."
+
+Two minutes later he was back, looking far more worried.
+
+"The automatic door won't let me out. I'll try your card just in case mine has been corrupted."
+
+"No luck," he was back again, "the whole system has locked up in the secure position, and manual over-ride is dead as well."
+
+"You mean we are locked in and can't phone for help," asked Anita, "what on earth are we going to do?" "No need to panic. You get the system test running and check the preliminary results. I'll have to risk setting off the fire alarm by using the emergency exit routine. If that does not work, then we will have to get into the hardware and force a door to open. At the very worst, Security will be in at eight in the morning and will be able to get help."
+
+All very logical, and absolutely no need to get upset, thought Anita, except for one thing; she needed to go to the loo again. The champagne was having its usual affect on her. She normally managed to disguise her small bladder by keeping her liquid intake low, but tonight she had really overdone the champagne, and now she was suffering for it. Crossing her legs tightly, she continued with the tests, hoping fervently that Ron would get the door open soon.
+
+Ten minutes later she was 90% certain that her systems were all working, though it would be some time before the final confirmation. She also needed the loo very badly, and was sitting with one foot tucked under her, using her heel to restrain an urgent need to pee.
+
+Ron returned, shaking his head, "The whole bloody door system has locked up, simply not responding to anything, not even the supposed emergency manual override. Unless it has set the fire alarm off outside, we are stuck here and can't even call for help."
+
+He took a small tool-kit from the cupboard and checked its contents. "Nothing here to force the doors with, but maybe we can open the control box and release a door. Do you know anything about this security system?" Anita had been pretending to study her screen, while anxiously reviewing her predicament. She already needed the loo badly, she was bursting, and she had drunk a lot of champagne in the last hour, which was really going to 'get her going.'
+
+Sitting on her heel provided the best temporary relief, but it would not be long before she simply had to pee, and there was no possible way she could hold out until security arrived at eight, even if they were released immediately. She was trapped in an open plan computer room, where, as far as she could see, there was absolutely nowhere she could possible go to the loo. No coffee machine or mini-kitchen with a drain, not even any waste bins, as all documents had to be filed or shredded. The layout of the room did not even provide anywhere private where she could have crouched over a bin if there had been one. She was in a terrible situation, worse even than being caught in a traffic jam on the M25, and all she could do was to hold on! as long as possible and hope that Ron could get the door open.
+
+She tried to think of something that would take her mind of the urgent pressure that was building in her bladder, resorting to playing a card game on her terminal while mentally urging Ron to get the door open quickly. Ten minutes later Ron called her over to look at the internals of the door mechanism he had opened. She could not refuse, though she dreaded the thought of having to stand up, which was certain to make her want the loo more badly. Ron had taken off the front panels off all the door units, revealing circuit board and bundles of wire vanishing into the wall. "Nothing's labelled, and everything is dead, not even any supply voltages. It looks as if the whole lot has got confused and just switched off. I don't see any way of getting action from here."
+
+He moved over to the actual door, Anita reluctantly following. As she had feared, getting off her foot had made her want to go much more urgently, and while standing she had to cross her legs as tightly as possible to keep in control. Walking was the last thing she wanted, and she was taking small steps with her thighs pressed together. The covers on the door locks had high security screws, designed to prevent anyone tampering with the mechanism, and there was nothing in Ron's rudimentary tool-kit that was going to open them. Never the less, he struggled for several minutes with various tools, while Anita watched in dismay, shifting her weight anxiously from leg to leg, praying that he would get the door open. Her need for the loo was becoming more urgent by the minute now she was standing, and it was becoming difficult to remain still and composed as the pressure in her bladder increased.
+
+Finally Ron gave up; "It looks as if we are stuck here until the morning, unless you have any bright ideas. As we've nothing else to do, let's see how the system tests are going."
+
+Anita went back to her terminal and thankfully sat down, her foot tucked under her, and easing her desperate need to pee. All this messing about with the door had taken longer that she thought, and the tests were nearly over. At least her software had passed the millennium without any problems, but she was really in trouble now. There was not possible way that she could hold out until the morning, when they might be released. At the best, it she could remain sitting on her heel, she might be able to last another half hour, though alcohol had a terrible affect on her bladder, and once she reached a certain stage it was almost impossible to wait any longer.
+
+When she had been in desperate situations before, there had always been some way out, even if she had to crouch behind the hedge, but tonight there did not seem to be any escape. All she could do was try to hold on as long as possible and hope for some miracle. She squirmed about in her chair, pressing herself down harder on her heel as a surge of desperation hit her.
+
+Ron came and stood behind her, looking at her monitor, and she quickly put her hands on the keyboard, least he should notice that she had been pulling up the front of her jeans and suspect that she needed the loo.
+
+"Looks like our system has passed OK," he said, disturbing her reverie, and pointing to the final results scrolling up the screen, "We should be collecting 'Gods' congratulations and bonus and heading home now. Instead we are stuck here, and I bet 'God' is going frantic wondering why we haven't reported to him."
+
+"All done and passed OK," confirmed Anita, "I'll print the results to get confirmation. We can't be too careful, and there is nothing else to do." She tried to keep the strain out of her voice, but it was difficult when she needed a loo so badly. One icon on her screen was blinking, but she couldn't concentrate on that, her bladder was the only thing she could think about. Godfrey wasn't the only one going frantic, she thought, and for once in her life she would have willingly changed places with him, at least for the ten minutes it would take to get to a loo. She shifted in her chair to get her heel in a more effective position, and tried to adjust her jeans so they applied minimum pressure on her throbbing abdomen. She could not last much longer, and she had no idea what she was going to do. Ron had pulled up a chair next to hers and seemed intent on making conversation, when all she wanted was privacy to struggle with her bladder.
+
+This was becoming the worst day of her life, she thought. She simply was not going to be able to wait much longer, and she could not think what to do when she could no longer hold it back. Should she struggle openly to wait longer, knowing full well that it was only putting off the inevitable, or should she just give up and wet herself where she sat, letting Ron, and later a lot of other people in security, see what had happened? She could not imagine doing either, yet what else could she do? Would Ron be able to do anything to help her? It did not seem likely, even if she could overcome her reticence and admit to him that she desperately wanted a loo.
+
+Anita was thinking that she was not going to be able to hold on more than anther ten minutes when Ron brought matters to a head by bringing over more champagne, the cause of all her troubles.
+
+"Let's celebrate our system passing the millennium," he said, "nothing else to do, and the bottle has been opened already."
+
+The mere thought of more drink sent Anita's bladder into a spasm that almost made her wet her pants, and she stifled a groan as she fought for control. This was the crisis for her, when she reached the point when she could not wait any longer without clutching between her legs and letting Ron know her problem. Almost in tears, she shook her head as Ron proffered her a drink. She might as well tell him, he was going to see soon enough.
+
+"Sorry Ron, I dare not drink any more, I'm simply dying to go to the loo." What an understatement when she was on the brink of wetting her pants. "I don't know what I'm going to do, I don't think I can hold out until morning." Ron frowned with concern and looked round the room. "Oh Christ, there's absolutely nowhere you can go as far as I can see. It's going to be a matter of cross your legs and hope security get here early."
+
+"Ron, I can't! I', nearly wetting myself now, and I can't possible wait much longer. Oh Ron! What am I going to do? I want to go to the loo. Oh please help me! Do something, I don't want to have to wet my pants." Having finally admitted her need to Ron, Anita was so desperate that she could only appeal to him to work some miracle and find somewhere for her to pee.
+
+Ron walked quickly round the computer suite, hoping to find something that Anita could pee into. There was nothing except the half empty champagne bottle. He filled both the glasses to the brim, then drank most of the remainder.
+
+"This is the only container here, can you use this?" he asked, holding up the bottle.
+
+"I don't think so, it's not easy for a woman, I'll make a terrible mess." Anita knew that she had no hope of directing her pee into the narrow neck of the bottle, but if the alternative was wetting herself, then what else could she do?
+
+"I'll make a funnel, then you will be OK," said Ron, tearing the glossy cover off a computer magazine, rolling it into a cone, and sticking it in the neck of the bottle.
+
+"Ron, I can't use that, I'll need at least 3 hands to hold it steady," wailed Anita, "Oh what can I do? I can't wait any longer." With the thought of relief so near, she was now openly clutching between her legs to hold herself back.
+
+"I'll hold it steady, you just squat over it and pee. I won't look, and I don't think there is any other choice unless you can wait."
+
+Anita had been mortified to even have to let someone else know how badly she wanted the loo, and to let them see her actually holding herself back. Now she was being asked to pee in front of Ron, but what alternative was there for her? She was on the brink of wetting her pants, and there was absolutely nowhere else to go. Ron had put the bottle on the floor and was holding the paper funnel in the neck, and all she had to do was crouch over it and there was the relief she craved. While her mind was still dithering, her body gave her no alternative, and she could feel that she was about to leak into her panties.
+
+"I'm sorry Ron, but I can't help it, I have simply got to go. I can't wait a second longer." Anita was still apologising as she pulled down her jeans, then her tights and panties, and manoeuvred herself over the funnel as near to it as she could manage. She had already leaked a bit into her panties and down her legs, and she was just about to let her pee gush forth unrestrained at last, when she realised that such a high-pressure stream would splash over the funnel and onto Ron. She clenched herself shut again, then relaxed a bit and let a series of spurts and dribbles go until she was half empty, when she finished with a gentle stream. Even when stretched to its limit, her tiny bladder held only half a pint, and the champagne magnum was less than a third full when she finished, quickly pulling her clothes up to hide her nakedness, tears of relief and embarrassment running down her cheeks.
+
+Ron, seeing her distress, put the bottle to one side and put his arm round her shoulders to comfort her.
+
+"It doesn't matter, nobody will ever know except me. You had to go, it was better to do that than wet yourself or go on the floor."
+
+The drink and the relief had made Anita light headed, and she clutched Ron, pressing her head against his chest in a manner that she would never normally dreamed of doing.
+
+"I'm sorry Ron, I couldn't help it, I just had to go, I was so desperate I couldn't hold it any longer. I've got a weak bladder," she confessed, " and when I've had a few drinks I just have to go to the loo."
+
+Ron continued to hold her tightly until she had calmed down, then suggested that they make another attempt to get out. While he was making more fruitless attempts to either open the doors or get the phone system to work, Anita turned her attention to the main computer system. The icon she had ignored before was still blinking, and she realised it was the secure internal e-mail system. She clicked it, and a message, highlighted red, very urgent, came up on the screen.
+
+'What is going on. Is our system OK. Call me at once. Godfrey Styles'
+
+"Ron, we're saved," she called across the room, "remember that remote terminal that 'God' had installed in his house, then never used. You must have missed it when you disconnected the other remote access. It's working, and 'God' is there, demanding an explanation for our silence."
+
+Ron was at her side as she began to type a message to Godfrey, telling him that their computers were OK, but that the telephone exchange and the building security had crashed, and they needed to be released. It was five minutes before a reply came, and they were just wondering if Godfrey had gone back to his party.
+
+'Congratulations, Happy New Year. Security contacted, they know what the problem is. Engineer on his way, eta 04,00. Expect full de-brief after the holiday.
+
+GS'
+
+"He's back to his party now, but at least he has done his bit. We should be out of here in under two hours." It seemed to Anita that all their trouble were over. "What did you do with the champagne you emptied out of the bottle for me?"
+
+"Two brim full glasses on the desk over there," replied Ron, "it seemed a shame to waste it."
+
+They toasted the new year again, then slowly emptied their glasses. Thirty minutes later Anita looked at her watch. The engineer was due in an hour to release them, but she was already sitting on her heel again. She tried to convince herself that it was imagination, and she could not possible want to go again so soon, but it was not long before she was desperate again.
+
+"Ron," she said, "I'm sorry, but I am going to have to use the bottle again. Unless the engineer is early, I will be frantic when he arrives, and if he does not get the doors open quickly, it might be too late."
+
+"No problem, and no point in suffering if you don't have to," he replied. Anita was bursting, but not the frantic panic of last time. She had time to pull down her clothes in an orderly fashion, and Ron made no pretence of not looking at her as she did so, but this did not bothered her so much. After all, she had worked with Ron for a long time, and he had been so nice about her first frantic pee, it was almost as if her peeing in a bottle was normal behaviour for them now. This time she didn't need to be comforted after, but she still wanted Ron to hug her again.
+
+"Ron, I haven't had a New Year kiss yet." Now the drink was surely going to her head, she could hardly believe that she was making such a blatant approach to him, yet suddenly she was craving physical contact that she had denied herself for so long. Ron didn't say anything, he just hugged her tightly, lifting her slight body off the ground and swinging her round in a wild flamboyant embrace. Having twice been so close to Anita while she had peed into the bottle had aroused Ron more that he had thought possible, and he had been longing to hug her again. They embraced like long lost lovers, then continued hugging and kissing like teenage lovers.
+
+They were still kissing when buzzing from the security system and knocking on the door announced the arrival of the engineer to release them.
+
+"The whole system has crashed, it's dead until I get new software," his voice squawked thought the entry-phone. "The only thing I can do is take this lock apart and force the door open. It will take about five minutes if there are no other problems."
+
+Brought back to reality, Anita and Ron quickly tidied themselves and then gathered up the empty glasses and bottle. The door slid open and the harassed looking engineer jammed it open with a piece of wood.
+
+"Anyone else in the building who might be locked in?" he asked. "No? Well, I'll be on my way. Every one of our system have crashed like this, customers are going crazy. Someone will be round later with new software. Until then, keep the wood in place and don't try to shut the door again."
+
+As soon as the door was opened, Ron was heading for the gents, as the champagne had finally got to his bladder, and he was desperate to pee. Anita, also needing yet another pee herself, took the bottle into the ladies and emptied the contents down the loo. Their job done, Anita put their computer system into standby mode. Ron had collected the other bottle of champagne he had brought to celebrate the New Year, and offered it to Anita. "Not here, thanks," she said, "but if you want to come home with me, we could start the century with a champagne breakfast." It would be, she hoped, the first on many breakfasts that they would have together.
+

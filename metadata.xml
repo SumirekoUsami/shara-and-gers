@@ -85,37 +85,37 @@
 </Story>
 <Story FD="FD">
 <Title slug="23-5-Hours">23.5 Hours</Title>
-<Author slug="Aktl">aktl</Author>
+<Author slug="experience-project/Aktl">aktl</Author>
 <Date>Wed, 27-Oct-2010 9:51AM UTC</Date>
 <TitleRus>23 с половиной часа</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperation">Desperation</Title>
-<Author slug="Aktl">aktl</Author>
+<Author slug="experience-project/Aktl">aktl</Author>
 <Date>Thu, 07-Oct-2010 2:15PM UTC</Date>
 <TitleRus>Отчаяние</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Holding-At-Home">Holding At Home</Title>
-<Author slug="Aktl">aktl</Author>
+<Author slug="experience-project/Aktl">aktl</Author>
 <Date>Sat, 09-Oct-2010 5:27PM UTC</Date>
 <TitleRus>Терплю дома</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="I-Broke-My-Record">I Broke My Record!</Title>
-<Author slug="Aktl">aktl</Author>
+<Author slug="experience-project/Aktl">aktl</Author>
 <Date>Sat, 09-Oct-2010 1:51PM UTC</Date>
 <TitleRus>Я побила свой рекорд!</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="The-Sleepower">The Sleepower</Title>
-<Author slug="Aktl">aktl</Author>
+<Author slug="experience-project/Aktl">aktl</Author>
 <Date>Sat, 04-Dec-2010 6:59AM UTC</Date>
 <TitleRus>Ночёвка</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Torturing-Your-Full-Bladder">Torturing Your Full Bladder</Title>
-<Author slug="Aktl">aktl</Author>
+<Author slug="experience-project/Aktl">aktl</Author>
 <Date>Sat, 09-Oct-2010 9:12AM UTC</Date>
 <TitleRus>Мучая полный мочевой пузырь</TitleRus>
 </Story>
@@ -144,6 +144,12 @@
 <TitleRus>Опьянение</TitleRus>
 </Story>
 <Story FD="FD">
+<Title slug="Caught-by-the-Tide">Caught by the Tide</Title>
+<Author slug="Alex-Hazel">Alex Hazel</Author>
+<Date>Sat, 10-Feb-2007 00:00:00 UTC</Date>
+<TitleRus>Пойманная приливом</TitleRus>
+</Story>
+<Story FD="FD">
 <Title slug="Lindas-Accident-2">Linda's Accident 2</Title>
 <Author slug="Alexei41">Alexei41</Author>
 <Date>Tuesday, 31-Jul-2001 21:00:00 UTC</Date>
@@ -154,12 +160,6 @@
 <Author slug="Alexei41">Alexei41</Author>
 <Date>Tuesday, 29-Feb-2000 22:00:00 UTC</Date>
 <TitleRus>Несчастный случай с Линдой</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Caught-by-the-Tide">Caught by the Tide</Title>
-<Author slug="Alex-Hazel">Alex Hazel</Author>
-<Date>Sat, 10-Feb-2007 00:00:00 UTC</Date>
-<TitleRus>Пойманная приливом</TitleRus>
 </Story>
 <Story MD="MD" FD="FD" AW="AW" DW="DW" SE="SE">
 <Title slug="My-Wife-and-I">My Wife and I</Title>
@@ -175,7 +175,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Training-Good-Girls-With-Full-Bladders">Training Good Girls With Full Bladders</Title>
-<Author slug="AliceLeed">aliceleed</Author>
+<Author slug="experience-project/AliceLeed">aliceleed</Author>
 <Date>Sun, 26-Jun-2011 1:22PM UTC</Date>
 <TitleRus>Тренировка хороших девушек с полным мочевым пузырём</TitleRus>
 </Story>
@@ -193,7 +193,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Collections-1-(real-Life)">Collections 1 (real Life)</Title>
-<Author slug="Alisa101">Alisa101</Author>
+<Author slug="experience-project/Alisa101">Alisa101</Author>
 <Date>Wed, 31-Aug-2011 12:10AM UTC</Date>
 <TitleRus>Подборка №1 (из реальной жизни)</TitleRus>
 </Story>
@@ -204,10 +204,10 @@
 <TitleRus>Сладкая месть студенческого общества</TitleRus>
 </Story>
 <Story FW="FW" MA="MA" FP="FP" GS="GS">
-<Title slug="Bunker-Break-Part-1-Introduction">Bunker Break, Part 1: Introduction</Title>
+<Title slug="Bunker-Break-Part-1-Introduction">Bunker Break - Part 1: Introduction</Title>
 <Author slug="Alpian">Alpian</Author>
 <Date>Wednesday, 31-May-2006 21:00:00 UTC</Date>
-<TitleRus>Бункерный прорыв, часть 1: Введение</TitleRus>
+<TitleRus>Бункерный прорыв - Часть 1: Введение</TitleRus>
 </Story>
 <Story FD="FD" AW="AW">
 <Title slug="Bunker-Break-Part-2-Desperation">Bunker Break - Part 2: Desperation</Title>
@@ -231,7 +231,7 @@
 <Title slug="Walk-Home">Walk Home</Title>
 <Author slug="Alpian">Alpian</Author>
 <Date>Saturday, 31-Aug-2013 21:00:00 UTC</Date>
-<TitleRus>Идти домой</TitleRus>
+<TitleRus>Добираясь домой</TitleRus>
 </Story>
 <Story FD="FD" DW="DW" GS="GS" DO="DO" HU="HU">
 <Title slug="Walking-Home-Again">Walking Home Again</Title>
@@ -261,7 +261,7 @@
 <Title slug="Irish-Coffee">Irish Coffee</Title>
 <Author slug="Alura-L">Alura L</Author>
 <Date>Thu, 11-Jun-1998 00:00:00 UTC</Date>
-<TitleRus>Ирландское кофе</TitleRus>
+<TitleRus>Кофе в Ирландии</TitleRus>
 </Story>
 <Story FD="FD" HU="HU" AW="AW">
 <Title slug="Britney">Britney</Title>
@@ -333,7 +333,7 @@
 <Title slug="A-Poem">A Poem</Title>
 <Author slug="Amoeba">Amoeba</Author>
 <Date>Wednesday, 31-Jan-2007 22:00:00 UTC</Date>
-<TitleRus>0</TitleRus>
+<TitleRus>ПОЭМА</TitleRus>
 </Story>
 <Story FD="FD" AW="AW" DW="DW" FP="FP" SE="SE">
 <Title slug="When-Sisters-Become-Friends">When Sisters Become Friends</Title>
@@ -358,12 +358,6 @@
 <Author slug="Amoeba">Amoeba</Author>
 <Date>Monday, 31-Dec-2007 22:00:00 UTC</Date>
 <TitleRus>Как сёстры остаются друзьями</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Damsel-in-Distress">Damsel in Distress</Title>
-<Author slug="Amonymous">Amonymous</Author>
-<Date>Fri, 03-Dec-1999 00:00:00 UTC</Date>
-<TitleRus>Дама в беде</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Sunday-Solo-Soaking">Sunday Solo Soaking</Title>
@@ -417,13 +411,55 @@
 <Title slug="The-Contest">The Contest</Title>
 <Author slug="AnimePee">AnimePee</Author>
 <Date>Wednesday, 30-Apr-2003 21:00:00 UTC</Date>
-<TitleRus>Конкурс (соревнование)</TitleRus>
+<TitleRus>Соревнование трёх подруг</TitleRus>
 </Story>
 <Story FD="FD" AW="AW" HU="HU">
 <Title slug="Accident-in-the-Park">Accident in the Park</Title>
 <Author slug="AniWee">Ani-Wee</Author>
 <Date>Tuesday, 30-Apr-2002 21:00:00 UTC</Date>
 <TitleRus>Авария в парке</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="After-the-Party">After the Party</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Sat, 30-Apr-2011 00:00:00 UTC</Date>
+<TitleRus>После вечеринки</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="The-Sleep-Over">The Sleep-Over</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Fri, 30-Sep-2011 00:00:00 UTC</Date>
+<TitleRus>Сон</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="After-the-concert">After the concert</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Wed, 29-Feb-2012 00:00:00 UTC</Date>
+<TitleRus>После концерта</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Holiday">Holiday</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Fri, 30-Nov-2012 00:00:00 UTC</Date>
+<TitleRus>Первый день отдыха</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="A-Wet-Week-in-Spain">A Wet Week in Spain</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Sun, 30-Jun-2013 00:00:00 UTC</Date>
+<TitleRus>Мокрая неделя в Испании</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="The-Concert">The Concert</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Tue, 31-Dec-2013 00:00:00 UTC</Date>
+<TitleRus>Концерт</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="The-Train-Ride">The Train Ride</Title>
+<Author slug="Ann-Whetter">Ann Whetter</Author>
+<Date>Thu, 31-Jul-2014 00:00:00 UTC</Date>
+<TitleRus>Поездка на поезде</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperation-at-the-Dentist">Desperation at the Dentist</Title>
@@ -522,48 +558,6 @@
 <TitleRus>Сапоги Карлин</TitleRus>
 </Story>
 <Story FD="FD">
-<Title slug="After-the-Party">After the Party</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Sat, 30-Apr-2011 00:00:00 UTC</Date>
-<TitleRus>После вечеринки</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="The-Sleep-Over">The Sleep-Over</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Fri, 30-Sep-2011 00:00:00 UTC</Date>
-<TitleRus>Сон</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="After-the-concert">After the concert</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Wed, 29-Feb-2012 00:00:00 UTC</Date>
-<TitleRus>После концерта</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Holiday">Holiday</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Fri, 30-Nov-2012 00:00:00 UTC</Date>
-<TitleRus>Первый день отдыха</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="A-Wet-Week-in-Spain">A Wet Week in Spain</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Sun, 30-Jun-2013 00:00:00 UTC</Date>
-<TitleRus>Мокрая неделя в Испании</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="The-Concert">The Concert</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Tue, 31-Dec-2013 00:00:00 UTC</Date>
-<TitleRus>Концерт</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="The-Train-Ride">The Train Ride</Title>
-<Author slug="Ann-Whetter">Ann Whetter</Author>
-<Date>Thu, 31-Jul-2014 00:00:00 UTC</Date>
-<TitleRus>Поездка на поезде</TitleRus>
-</Story>
-<Story FD="FD">
 <Title slug="Angela-and-the-Wimp">anon-Angela and the Wimp</Title>
 <Author slug="Anon">Anon</Author>
 <Date>Sat, 28-Feb-1998 00:00:00 UTC</Date>
@@ -651,6 +645,7 @@
 <Title slug="My-Fantasy">My Fantasy</Title>
 <Author slug="Anon">Anon</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Моя фантазия</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Surprises-Surprises">Surprises, Surprises</Title>
@@ -665,8 +660,14 @@
 <TitleRus>Правдивая история</TitleRus>
 </Story>
 <Story FD="FD">
+<Title slug="Damsel-in-Distress">Damsel in Distress</Title>
+<Author slug="Anonymous">Anonymous</Author>
+<Date>Fri, 03-Dec-1999 00:00:00 UTC</Date>
+<TitleRus>Дама в беде</TitleRus>
+</Story>
+<Story FD="FD">
 <Title slug="All-Day-Picnic">All Day Picnic</Title>
-<Author slug="Anthony63">Anthony63</Author>
+<Author slug="experience-project/Anthony63">Anthony63</Author>
 <Date>Sun, 05-Sep-2010 3:27PM UTC</Date>
 <TitleRus>Пикник на весь день</TitleRus>
 </Story>
@@ -912,7 +913,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Self-Induced-Desperation-and-Wetting">Self Induced Desperation and Wetting</Title>
-<Author slug="Argbv5009">Argbv5009</Author>
+<Author slug="experience-project/Argbv5009">Argbv5009</Author>
 <Date>Sun, 08-Nov-2009 6:42PM UTC</Date>
 <TitleRus>Самостоятельное отчаяние и недержание мочи</TitleRus>
 </Story>
@@ -1020,19 +1021,19 @@
 </Story>
 <Story FD="FD">
 <Title slug="Bursting-bladder">Bursting bladder</Title>
-<Author slug="BladderBurst">BladderBurst</Author>
+<Author slug="experience-project/BladderBurst">BladderBurst</Author>
 <Date>Thu, 06-May-2010 12:12PM UTC</Date>
 <TitleRus>Разрыв мочевого пузыря</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Mom-Calls-Bladder-Bursts">Mom Calls.. Bladder Bursts</Title>
-<Author slug="BladderBurst">BladderBurst</Author>
+<Author slug="experience-project/BladderBurst">BladderBurst</Author>
 <Date>Thu, 06-May-2010 6:24PM UTC</Date>
 <TitleRus>Мама позвонила, мочевой пузырь чуть не лопнул</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="First-Time-hurt-So-Good">First Time...hurt So Good</Title>
-<Author slug="BlahMeBlah">blahmeblah</Author>
+<Author slug="experience-project/BlahMeBlah">blahmeblah</Author>
 <Date>Wed, 17-Mar-2010 9:37PM UTC</Date>
 <TitleRus>В первый раз … так больно</TitleRus>
 </Story>
@@ -1110,7 +1111,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="A-Very-Intresting-Night">A Very Intresting Night</Title>
-<Author slug="Bobcat100">bobcat109</Author>
+<Author slug="experience-project/Bobcat100">bobcat109</Author>
 <Date>Sat, 07-Nov-2009 00:00:00 UTC</Date>
 <TitleRus>Очень интересная ночь</TitleRus>
 </Story>
@@ -1182,13 +1183,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="All-Day-Desperation-1">All Day Desperation 1</Title>
-<Author slug="BryannaC">BryannaC</Author>
+<Author slug="experience-project/BryannaC">BryannaC</Author>
 <Date>Fri, 09-Jul-2010 3:40AM UTC</Date>
 <TitleRus>Отчаяние на весь, день 1</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="All-Day-Desperation-2">All Day Desperation 2</Title>
-<Author slug="BryannaC">BryannaC</Author>
+<Author slug="experience-project/BryannaC">BryannaC</Author>
 <Date>Mon, 12-Jul-2010 2:00AM UTC</Date>
 <TitleRus>Терплю весь день (день 2)</TitleRus>
 </Story>
@@ -1410,13 +1411,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="Introducing-Kelly">Introducing Kelly</Title>
-<Author slug="Bursting">Bursting</Author>
+<Author slug="experience-project/Bursting">Bursting</Author>
 <Date>Tue, 21-Jun-2011 5:20PM UTC</Date>
 <TitleRus>Представляем Келли …</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Pauls-Predicament">Paul's Predicament</Title>
-<Author slug="Burstingxx">burstingxx</Author>
+<Author slug="experience-project/Burstingxx">burstingxx</Author>
 <Date>Sun, 05-Dec-2010 12:45AM UTC</Date>
 <TitleRus>Затруднительное положение Пола</TitleRus>
 </Story>
@@ -1434,15 +1435,51 @@
 </Story>
 <Story FD="FD">
 <Title slug="Bursting-At-the-Train-Station">Bursting At the Train Station</Title>
-<Author slug="Busting">busting</Author>
+<Author slug="experience-project/Busting">busting</Author>
 <Date>Tue, 28-Apr-2009 00:00:00 UTC</Date>
 <TitleRus>Не успела на вокзале</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Holding-On-Gave-Me-An-Orgasm">Holding On Gave Me An Orgasm!</Title>
-<Author slug="Busting">busting</Author>
+<Author slug="experience-project/Busting">busting</Author>
 <Date>Wed, 06-Aug-2008 00:00:00 UTC</Date>
 <TitleRus>Удерживание дало мне оргазм!</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Pams-Accident">Pam's Accident</Title>
+<Author slug="CU-Squirm">C.U. Squirm</Author>
+<Date>Tuesday, 30-Nov-1999 22:00:00 UTC</Date>
+<TitleRus>Позорное происшествие с Памелой</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Karens-Bad-Day">Karen's Bad Day</Title>
+<Author slug="CU-Squirm">C.U. Squirm</Author>
+<Date>Tuesday, 30-Nov-1999 22:00:00 UTC</Date>
+<TitleRus>Плохой день Карен</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="St-Patricks-Day-Pee-Dance">St. Patrick's Day Pee Dance</Title>
+<Author slug="CU-Squirm">C.U. Squirm</Author>
+<Date>Friday, 31-Mar-2000 21:00:00 UTC</Date>
+<TitleRus>Танец пи-пи в день Святого Патрика</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Jessees-Accident">Jessee's Accident</Title>
+<Author slug="CU-Squirm">C.U. Squirm</Author>
+<Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Позорное происшествие с Джесси</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="The-Girl-in-the-Yellow-Pants">The girl in the yellow pants</Title>
+<Author slug="CU-Squirm">C.U. Squirm</Author>
+<Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Девушка в жёлтых штанах</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Robin">Robin</Title>
+<Author slug="CU-Squirm">C.U. Squirm</Author>
+<Date>Sun, 08-Feb-1998 00:00:00 UTC</Date>
+<TitleRus>Девушка Робин</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="The-Predicament">The Predicament</Title>
@@ -1490,41 +1527,49 @@
 <Title slug="Six-Pee-Girls">Six Pee Girls</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Сексуальные зассыхи</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="How-did-Old-England-Women-Pee-Pt-1">How did Old England women Pee - Part 1</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Как мочились в Старой Англии - Часть 1</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="How-did-Old-England-Women-Pee-Pt-2">How did Old England women Pee - Part 2</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Как мочились в Старой Англии - Часть 2</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Katie-is-Humiliated">Katie is Humiliated</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Кэти унижена</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperate-Pissing-of-Griselda">Desperate Pissing of Griselda</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Отчаянный писсинг Гризельды</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Amanda">Amanda</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Аманда</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Bride-at-a-Wedding">Bride at a Wedding</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Невеста на свадьбе</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Watching-Women-Piss">Watching Women Piss</Title>
 <Author slug="cascade">Cascade</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Смотреть, как женщины писают</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="A-Woman-is-feeling-sexy-with-her-bladder-full-of-pee">A Woman is feeling sexy with her bladder full of pee</Title>
@@ -1590,6 +1635,7 @@
 <Title slug="Friday-Night-Concert">Friday Night Concert</Title>
 <Author slug="Christy">Christy</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Концерт в пятницу вечером</TitleRus>
 </Story>
 <Story FD="FD" FP="FP">
 <Title slug="Doubling-Up">Doubling Up</Title>
@@ -1605,25 +1651,25 @@
 </Story>
 <Story FD="FD">
 <Title slug="A-Hold-To-Remember">A Hold To Remember</Title>
-<Author slug="CoolNiceGuy">coolniceguy</Author>
+<Author slug="experience-project/CoolNiceGuy">coolniceguy</Author>
 <Date>Tue, 01-Feb-2011 5:32PM UTC</Date>
 <TitleRus>Никогда не забуду это…</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="A-Nice-Wedding-Gift">A Nice Wedding Gift</Title>
-<Author slug="CoolNiceGuy">coolniceguy</Author>
+<Author slug="experience-project/CoolNiceGuy">coolniceguy</Author>
 <Date>Thu, 23-Jun-2011 10:44AM UTC</Date>
 <TitleRus>Хороший свадебный подарок</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="My-Friend-Amanda">My Friend Amanda</Title>
-<Author slug="CoolNiceGuy">coolniceguy</Author>
+<Author slug="experience-project/CoolNiceGuy">coolniceguy</Author>
 <Date>Sat, 19-Dec-2009 1:12PM UTC</Date>
 <TitleRus>Моя подруга Аманда</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="The-Brazilians-Big-Bladder">The Brazilian's Big Bladder</Title>
-<Author slug="CoolNiceGuy">coolniceguy</Author>
+<Author slug="experience-project/CoolNiceGuy">coolniceguy</Author>
 <Date>Sun, 09-Aug-2009 00:00:00 UTC</Date>
 <TitleRus>Бразильский мочевой пузырь</TitleRus>
 </Story>
@@ -1656,48 +1702,6 @@
 <Author slug="Cresta">Cresta</Author>
 <Date>Saturday, 30-Sep-2000 21:00:00 UTC</Date>
 <TitleRus>Заперт с миссис Вейл</TitleRus>
-</Story>
-<Story FD="FD" MW="MW" FW="FW" EX="EX">
-<Title slug="Jennys-Job-at-the-Ski-Rental-Part-2">Jenny's Job at the Ski Rental - Part 2</Title>
-<Author slug="c-The-Golden-Alchemist">(c) The Golden Alchemist</Author>
-<Date>Sunday, 30-Sep-2007 21:00:00 UTC</Date>
-<TitleRus>Работа Дженни в прокате лыж (часть 2)</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Pams-Accident">Pam's Accident</Title>
-<Author slug="CU-Squirm">C.U. Squirm</Author>
-<Date>Tuesday, 30-Nov-1999 22:00:00 UTC</Date>
-<TitleRus>Позорное происшествие с Памелой</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Karens-Bad-Day">Karen's Bad Day</Title>
-<Author slug="CU-Squirm">C.U. Squirm</Author>
-<Date>Tuesday, 30-Nov-1999 22:00:00 UTC</Date>
-<TitleRus>Плохой день Карен</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="St-Patricks-Day-Pee-Dance">St. Patrick's Day Pee Dance</Title>
-<Author slug="CU-Squirm">C.U. Squirm</Author>
-<Date>Friday, 31-Mar-2000 21:00:00 UTC</Date>
-<TitleRus>Танец пи-пи в день Святого Патрика</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Jessees-Accident">Jessee's Accident</Title>
-<Author slug="CU-Squirm">C.U. Squirm</Author>
-<Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
-<TitleRus>Позорное происшествие с Джесси</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="The-Girl-in-the-Yellow-Pants">The girl in the yellow pants</Title>
-<Author slug="CU-Squirm">C.U. Squirm</Author>
-<Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
-<TitleRus>Девушка в жёлтых штанах</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Robin">Robin</Title>
-<Author slug="CU-Squirm">C.U. Squirm</Author>
-<Date>Sun, 08-Feb-1998 00:00:00 UTC</Date>
-<TitleRus>Девушка Робин</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Morning-Drive-to-Work">Morning Drive to Work</Title>
@@ -1804,7 +1808,7 @@
 <Story FD="FD">
 <Title slug="The-Schoolgirl">The Schoolgirl</Title>
 <Author slug="DaveB">DaveB</Author>
-<Date>Tuesday, 02-Apr-96 12:52:45 JST UTC</Date>
+<Date>Tuesday, 02-Apr-1996 12:52:45 JST UTC</Date>
 <TitleRus>Школьница Новой Зеландии</TitleRus>
 </Story>
 <Story FD="FD" HU="HU" AW="AW">
@@ -2061,7 +2065,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Setting-Her-Up">Setting Her Up</Title>
-<Author slug="David-North">David North, Jeremy W.</Author>
+<Author slug="David-North">David North</Author>
 <Date>Tue, 20-Dec-2005 00:00:00 UTC</Date>
 <TitleRus>Настройка её</TitleRus>
 </Story>
@@ -2211,7 +2215,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Trouble-on-the-Line">Trouble on the Line</Title>
-<Author slug="David-North">David North and Jeff</Author>
+<Author slug="David-North">David North</Author>
 <Date>Tue, 20-Mar-2007 00:00:00 UTC</Date>
 <TitleRus>Проблема на линии</TitleRus>
 </Story>
@@ -2262,6 +2266,12 @@
 <Author slug="Dazed">Dazed</Author>
 <Date>Sunday, 30-Sep-2001 21:00:00 UTC</Date>
 <TitleRus>Неожиданная остановка</TitleRus>
+</Story>
+<Story FD="FD" AW="AW" HU="HU">
+<Title slug="African-Romance">African Romance</Title>
+<Author slug="De-Lurker">De Lurker</Author>
+<Date>Thursday, 31-Oct-2002 22:00:00 UTC</Date>
+<TitleRus>Африканский романс</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="As-a-Substitute-Teacher">As a Substitute Teacher</Title>
@@ -2433,15 +2443,9 @@
 </Story>
 <Story FD="FD">
 <Title slug="Deliberate-Desperation">!Deliberate Desperation</Title>
-<Author slug="Deleted">deleted</Author>
+<Author slug="experience-project/Deleted">deleted</Author>
 <Date>Fri, 22-Jan-2010 1:04PM UTC</Date>
 <TitleRus>Умышленное терпение!</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" HU="HU">
-<Title slug="African-Romance">African Romance</Title>
-<Author slug="De-Lurker">De Lurker</Author>
-<Date>Thursday, 31-Oct-2002 22:00:00 UTC</Date>
-<TitleRus>Африканский романс</TitleRus>
 </Story>
 <Story FD="FD" FW="FW" MA="MA">
 <Title slug="On-Holiday-with-Sarah">On Holiday with Sarah</Title>
@@ -2478,6 +2482,30 @@
 <Author slug="Desp1999">Desp1999</Author>
 <Date>Tuesday, 31-Jul-2001 21:00:00 UTC</Date>
 <TitleRus>Паника во дворце</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="">Wedding Trouble</Title>
+<Author slug="desperlover">Desparation Lover</Author>
+<Date>Sun, 10-Jul-2005 00:00:00 UTC</Date>
+<TitleRus>Свадебный переполох</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="">Longest MinutesEver</Title>
+<Author slug="desperlover">Desparation Lover</Author>
+<Date>Sat, 20-May-2006 00:00:00 UTC</Date>
+<TitleRus>Самые длинные минуты</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Desperate-to-P-at-the-U">Desperate to P at the U</Title>
+<Author slug="Desper-Lover">Desparation Lover</Author>
+<Date>Fri, 10-Aug-2007 00:00:00 UTC</Date>
+<TitleRus>Отчаявшись P в U</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Hectic-Hostess">Hectic Hostess</Title>
+<Author slug="desperlover">Desparation Lover</Author>
+<Date>Fri, 20-Mar-2009 00:00:00 UTC</Date>
+<TitleRus>Беспокойная хозяйка</TitleRus>
 </Story>
 <Story MD="MD" MW="MW">
 <Title slug="Desperate-Train-Ride">Desperate Train Ride</Title>
@@ -2522,32 +2550,8 @@
 <TitleRus>Несчастный случай Эммы</TitleRus>
 </Story>
 <Story FD="FD">
-<Title slug="">Wedding Trouble</Title>
-<Author slug="desperlover">Desparation Lover</Author>
-<Date>Sun, 10-Jul-2005 00:00:00 UTC</Date>
-<TitleRus>Свадебный переполох</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="">Longest MinutesEver</Title>
-<Author slug="desperlover">Desparation Lover</Author>
-<Date>Sat, 20-May-2006 00:00:00 UTC</Date>
-<TitleRus>Самые длинные минуты</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Hectic-Hostess">Hectic Hostess</Title>
-<Author slug="desperlover">Desparation Lover</Author>
-<Date>Fri, 20-Mar-2009 00:00:00 UTC</Date>
-<TitleRus>Беспокойная хозяйка</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Desperate-to-P-at-the-U">Desperate to P at the U</Title>
-<Author slug="Desper-Lover">Desparation Lover</Author>
-<Date>Fri, 10-Aug-2007 00:00:00 UTC</Date>
-<TitleRus>Отчаявшись P в U</TitleRus>
-</Story>
-<Story FD="FD">
 <Title slug="Dance-Studio-Desperation">Dance Studio Desperation</Title>
-<Author slug="DespGuy123">DespGuy123</Author>
+<Author slug="experience-project/DespGuy123">DespGuy123</Author>
 <Date>Tue, 06-Sep-2011 1:29PM UTC</Date>
 <TitleRus>Танцевальная студия. Отчаяние</TitleRus>
 </Story>
@@ -2629,6 +2633,12 @@
 <Date>Sun, 31-Aug-1997 00:00:00 UTC</Date>
 <TitleRus>Сара и я</TitleRus>
 </Story>
+<Story FD="FD" SE="SE">
+<Title slug="New-Orleans-Weekend">New Orleans Weekend</Title>
+<Author slug="Dr-P">Dr. P.</Author>
+<Date>Thursday, 31-Oct-2013 22:00:00 UTC</Date>
+<TitleRus>Выходные в Новом Орлеане</TitleRus>
+</Story>
 <Story FD="FD" FW="FW" MA="MA">
 <Title slug="Locked-in-the-Grocery-Store">Locked in the Grocery Store</Title>
 <Author slug="Dribblets">Dribblets</Author>
@@ -2677,11 +2687,11 @@
 <Date>Tuesday, 30-Nov-2004 22:00:00 UTC</Date>
 <TitleRus>Развлечение вчетвером</TitleRus>
 </Story>
-<Story FD="FD" SE="SE">
-<Title slug="New-Orleans-Weekend">New Orleans Weekend</Title>
-<Author slug="Dr-P">Dr. P.</Author>
-<Date>Thursday, 31-Oct-2013 22:00:00 UTC</Date>
-<TitleRus>Выходные в Новом Орлеане</TitleRus>
+<Story FD="FD" AW="AW" DW="DW">
+<Title slug="Worth-the-Risk">Worth the Risk</Title>
+<Author slug="E-Rok">E. Rok</Author>
+<Date>Monday, 30-Nov-2009 22:00:00 UTC</Date>
+<TitleRus>Стоит рисковать</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Basic-Load">Basic Load</Title>
@@ -2748,12 +2758,6 @@
 <Author slug="Erich-Too">Erich Too</Author>
 <Date>Monday, 31-Dec-2001 22:00:00 UTC</Date>
 <TitleRus>Старый профессор</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" DW="DW">
-<Title slug="Worth-the-Risk">Worth the Risk</Title>
-<Author slug="E-Rok">E. Rok</Author>
-<Date>Monday, 30-Nov-2009 22:00:00 UTC</Date>
-<TitleRus>Стоит рисковать</TitleRus>
 </Story>
 <Story FD="FD" AW="AW" SE="SE">
 <Title slug="Rest-Area-Desperation">Rest Area Desperation</Title>
@@ -4117,6 +4121,18 @@
 <Date>Monday, 30-Jun-2008 21:00:00 UTC</Date>
 <TitleRus>Сёстры: открытие Елизаветы</TitleRus>
 </Story>
+<Story FD="FD" AW="AW">
+<Title slug="Longest-Minutes-Ever">"Longest ""Minutes"" Ever"</Title>
+<Author slug="H-Klumfan">H. Klumfan</Author>
+<Date>Thursday, 31-Aug-2006 21:00:00 UTC</Date>
+<TitleRus>Самые длинные «минуты» за всю историю</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="The-Beer-Flows-Better-at-Hooters">The Beer Flows Better at Hooter's</Title>
+<Author slug="H-Klumfan">H. Klumfan</Author>
+<Date>Tue, 10-Apr-2008 00:00:00 UTC</Date>
+<TitleRus>В Hooter`s пиво течёт лучше</TitleRus>
+</Story>
 <Story MD="MD" AW="AW">
 <Title slug="Ill-do-Anything-for-You">I'll do Anything for You</Title>
 <Author slug="H2O">H2O</Author>
@@ -4177,17 +4193,11 @@
 <Date>Fri, 31-Oct-1997 00:00:00 UTC</Date>
 <TitleRus>Рассказ о возвращении домой с вечеринки</TitleRus>
 </Story>
-<Story FD="FD" AW="AW">
-<Title slug="Longest-Minutes-Ever">"Longest ""Minutes"" Ever"</Title>
-<Author slug="H-Klumfan">H. Klumfan</Author>
+<Story FD="FD" FP="FP" SE="SE">
+<Title slug="My-Record-Hold">My Record Hold</Title>
+<Author slug="Holding-on-Hard">Holding on Hard</Author>
 <Date>Thursday, 31-Aug-2006 21:00:00 UTC</Date>
-<TitleRus>Самые длинные «минуты» за всю историю</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="The-Beer-Flows-Better-at-Hooters">The Beer Flows Better at Hooter's</Title>
-<Author slug="H-Klumfan">H. Klumfan</Author>
-<Date>Tue, 10-Apr-2008 00:00:00 UTC</Date>
-<TitleRus>В Hooter`s пиво течёт лучше</TitleRus>
+<TitleRus>Моё рекордное удержание</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Challenging-Myself">Challenging Myself</Title>
@@ -4203,15 +4213,9 @@
 </Story>
 <Story FD="FD">
 <Title slug="I-Almost-Broke-My-Bladder">I Almost Broke My Bladder</Title>
-<Author slug="HoldingOnHard">holdingonhard</Author>
+<Author slug="experience-project/HoldingOnHard">holdingonhard</Author>
 <Date>Sun, 02-Aug-2009 00:00:00 UTC</Date>
 <TitleRus>Я чуть не испортила мочевой пузырь</TitleRus>
-</Story>
-<Story FD="FD" FP="FP" SE="SE">
-<Title slug="My-Record-Hold">My Record Hold</Title>
-<Author slug="Holding-on-Hard">Holding on Hard</Author>
-<Date>Thursday, 31-Aug-2006 21:00:00 UTC</Date>
-<TitleRus>Моё рекордное удержание</TitleRus>
 </Story>
 <Story FD="FD" DW="DW" FP="FP" SE="SE">
 <Title slug="Chilling-Her">Chilling Her</Title>
@@ -4233,7 +4237,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Finally">Finally</Title>
-<Author slug="HotLarry">HotLarry</Author>
+<Author slug="experience-project/HotLarry">HotLarry</Author>
 <Date>Tue, 15-Dec-2009 00:00:00 UTC</Date>
 <TitleRus>Наконец-то!</TitleRus>
 </Story>
@@ -4251,13 +4255,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="Bursting-Bladder-Accident-At-Work">Bursting Bladder Accident At Work</Title>
-<Author slug="ILoveYou890">iloveyou890</Author>
+<Author slug="experience-project/ILoveYou890">iloveyou890</Author>
 <Date>Mon, 09-Nov-2009 00:00:00 UTC</Date>
 <TitleRus>Несчастный случай с отказом мочевого пузыря на работе</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="She-Was-Desperate">She Was Desperate</Title>
-<Author slug="ILoveYou890">iloveyou890</Author>
+<Author slug="experience-project/ILoveYou890">iloveyou890</Author>
 <Date>Sat, 14-Nov-2009 00:00:00 UTC</Date>
 <TitleRus>Она была в отчаянии</TitleRus>
 </Story>
@@ -4389,7 +4393,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="I-Need-Advice">I Need Advice!!</Title>
-<Author slug="IsHeAbnormal">IsHeAbnormal</Author>
+<Author slug="experience-project/IsHeAbnormal">IsHeAbnormal</Author>
 <Date>Thu, 07-Aug-2008 00:00:00 UTC</Date>
 <TitleRus>Мне нужен совет!!</TitleRus>
 </Story>
@@ -4401,9 +4405,15 @@
 </Story>
 <Story FD="FD">
 <Title slug="Full-Bladder-Punishment">Full Bladder Punishment</Title>
-<Author slug="ItCrowdily">itcrowdily</Author>
+<Author slug="experience-project/ItCrowdily">itcrowdily</Author>
 <Date>Mon, 03-Jan-2011 3:46AM UTC</Date>
 <TitleRus>Наказание полным мочевым пузырём</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Amy-in-the-Elevator">Amy in the Elevator</Title>
+<Author slug="JB">J.B.</Author>
+<Date>Tuesday, 31-Jul-2001 21:00:00 UTC</Date>
+<TitleRus>Эми застряла в лифте</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Jills-Bus-Accident">Jill's Bus Accident</Title>
@@ -4602,12 +4612,6 @@
 <Author slug="JayGee">Jay-Gee</Author>
 <Date>Thursday, 30-Sep-2010 21:00:00 UTC</Date>
 <TitleRus>Дочь викария (церковника)</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Amy-in-the-Elevator">Amy in the Elevator</Title>
-<Author slug="JB">J.B.</Author>
-<Date>Tuesday, 31-Jul-2001 21:00:00 UTC</Date>
-<TitleRus>Эми застряла в лифте</TitleRus>
 </Story>
 <Story FD="FD" DW="DW" FP="FP" SE="SE">
 <Title slug="Service-Call">Service Call</Title>
@@ -4870,7 +4874,7 @@
 <Story FD="FD">
 <Title slug="Rosemary-and-Betty">Rosemary and Betty</Title>
 <Author slug="Joe">Joe</Author>
-<Date>Wednesday, 10-Apr-96 UTC</Date>
+<Date>Wednesday, 10-Apr-1996 00:00:00 UTC</Date>
 <TitleRus>Розмари и Бетти, история 60-х</TitleRus>
 </Story>
 <Story FD="FD">
@@ -5061,13 +5065,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="My-24-hour-Holding-Pt1-2">My-24-hour Holding</Title>
-<Author slug="K4YL4">K4YL4</Author>
+<Author slug="experience-project/K4YL4">K4YL4</Author>
 <Date>Tue, 28-Dec-2010 10:46PM UTC</Date>
 <TitleRus>24-часовое терпение (обе части</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="A-Girl-Desperate-To-Pee">A Girl Desperate To Pee</Title>
-<Author slug="K4YL4">K4YL4</Author>
+<Author slug="experience-project/K4YL4">K4YL4</Author>
 <Date>Wed, 24-Feb-2010 6:32PM UTC</Date>
 <TitleRus>Девушка, отчаявшаяся пописить</TitleRus>
 </Story>
@@ -5313,7 +5317,7 @@
 </Story>
 <Story en26_002="en26_002">
 <Title slug="Charity-Watersports-Concert">Charity Watersports Concert</Title>
-<Author slug="King-P">King P</Author>
+<Author slug="King-P">King P.</Author>
 <Date>Sun, 01-Sep-1996  UTC</Date>
 <TitleRus>Благотворительный концерт водного спорта</TitleRus>
 </Story>
@@ -5481,7 +5485,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="My-Desperation-Story">My Desperation Story</Title>
-<Author slug="Limensia">limensia</Author>
+<Author slug="experience-project/Limensia">limensia</Author>
 <Date>Sat, 16-Jan-2010 3:25AM UTC</Date>
 <TitleRus>Старая правдивая история отчаяния из моего дневника</TitleRus>
 </Story>
@@ -5511,8 +5515,9 @@
 </Story>
 <Story FD="FD">
 <Title slug="Old-True-Desperation-Story-From-My-Journal">Old, True Desperation Story From My Journal</Title>
-<Author slug="LittleOblivion">littleoblivion</Author>
+<Author slug="experience-project/LittleOblivion">littleoblivion</Author>
 <Date>Wed, 20-Apr-2011 3:52AM UTC</Date>
+<TitleRus>Старая, настоящая история отчаяния из моего дневника</TitleRus>
 </Story>
 <Story FD="FD" AW="AW" HU="HU">
 <Title slug="Lizzy-tells-her-Story">Lizzy tells her Story</Title>
@@ -5553,7 +5558,7 @@
 <Story FD="FD">
 <Title slug="Amy-Wets-Her-Pants">Amy Wets Her Pants</Title>
 <Author slug="Lou">Lou</Author>
-<Date>Tuesday, 16-Apr-96 02:30:22 JST UTC</Date>
+<Date>Tuesday, 16-Apr-1996 02:30:22 JST UTC</Date>
 <TitleRus>Эми писает в штаны</TitleRus>
 </Story>
 <Story FD="FD" AW="AW" MA="MA">
@@ -5570,7 +5575,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Holding-For-My-Boyfriend">Holding For My Boyfriend</Title>
-<Author slug="LovelyLovely">lovelylovely</Author>
+<Author slug="experience-project/LovelyLovely">lovelylovely</Author>
 <Date>Tue, 06-Jul-2010 1:48AM UTC</Date>
 <TitleRus>Терпи за своего парня!</TitleRus>
 </Story>
@@ -5606,19 +5611,19 @@
 </Story>
 <Story FD="FD">
 <Title slug="I-Meet-My-Ex">I Meet My Ex</Title>
-<Author slug="Luke1980">luke1980</Author>
+<Author slug="experience-project/Luke1980">luke1980</Author>
 <Date>Tue, 24-Aug-2010 2:51AM UTC</Date>
 <TitleRus>Я встречаюсь с моей бывшей</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Real-Story">Real Story!</Title>
-<Author slug="Luke1980">luke1980</Author>
+<Author slug="experience-project/Luke1980">luke1980</Author>
 <Date>Mon, 27-Apr-2009 00:00:00 UTC</Date>
 <TitleRus>Старая правдивая история отчаяния из моего дневника</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="She-Pees-Only-At-Home">She Pees Only At Home</Title>
-<Author slug="Luke1980">luke1980</Author>
+<Author slug="experience-project/Luke1980">luke1980</Author>
 <Date>Tue, 01-Jul-2010 5:06AM UTC</Date>
 <TitleRus>Она писает только дома</TitleRus>
 </Story>
@@ -5666,13 +5671,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="Up-to-the-Challenge">Up to the Challenge</Title>
-<Author slug="Lynxeye">Lynxeye</Author>
+<Author slug="experience-project/Lynxeye">Lynxeye</Author>
 <Date>Thu, 24-Sep-2009 00:00:00 UTC</Date>
 <TitleRus>Готовность к вызову</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="A-Little-Kink-Can-Be-A-Good-Thing">A Little Kink Can Be A Good Thing</Title>
-<Author slug="Lythe">Lythe</Author>
+<Author slug="experience-project/Lythe">Lythe</Author>
 <Date>Thu, 08-Jul-2010 2:50AM UTC</Date>
 <TitleRus>Небольшой перегиб может быть хорошим делом</TitleRus>
 </Story>
@@ -5912,7 +5917,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="3-Days">3 Days</Title>
-<Author slug="MDRC">Mdrc1010011010</Author>
+<Author slug="experience-project/MDRC">Mdrc1010011010</Author>
 <Date>Sat, 04-Jun-2011 5:25PM UTC</Date>
 <TitleRus>Три дня</TitleRus>
 </Story>
@@ -6074,7 +6079,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="The-hold-(story)">The hold (story)</Title>
-<Author slug="Milhaylay1">milhaylay1</Author>
+<Author slug="experience-project/Milhaylay1">milhaylay1</Author>
 <Date>Wed, 21-Aug-2013 00:00:00 UTC</Date>
 <TitleRus>Терплю… (рассказ)</TitleRus>
 </Story>
@@ -6116,7 +6121,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Desperate-At-Work">Desperate At Work</Title>
-<Author slug="MizzyJulie">mizzyjulie</Author>
+<Author slug="experience-project/MizzyJulie">mizzyjulie</Author>
 <Date>Fri, 01-Jan-2010 1:32AM UTC</Date>
 <TitleRus>Отчаянно на работе</TitleRus>
 </Story>
@@ -6200,7 +6205,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="Riaelle-And-Jenna-Cant-Hold-it">Riaelle And Jenna Can't Hold-it</Title>
-<Author slug="Narobity">Narobity</Author>
+<Author slug="experience-project/Narobity">Narobity</Author>
 <Date>Sun, 26-Jun-2011 3:54AM UTC</Date>
 <TitleRus>Риэль и Дженна не выдерживают</TitleRus>
 </Story>
@@ -6316,191 +6321,229 @@
 <Title slug="Junes-Bus-Agony">June’s Bus Agony</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Автобусная агония кондукторши</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Daisys-Dilemma">Daisy’s Dilemma</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Дилемма Дейзи</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperate-On-The-Way-Home">Desperate On The Way Home</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Отчаянная на пути домой</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Nightclub-Blues">Nightclub Blues</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Ночной клуб Блюз</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Plane-Crazy">Plane Crazy</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Безумный самолет</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Rachels-Sportsday">Rachel’s Sportsday</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>День спорта Рэйчел</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Our-Hold-it-Contest">Our Hold-it Contest</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Наш конкурс Hold-it</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Myra-Wets-Her-Carnival-Costume">Myra Wets Her Carnival Costume</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Майра смачивает свой карнавальный костюм</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Hollys-Halloween">Holly’s Hallowe’en</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Святой Хэллоуин</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Joggers-Agony">Jogger’s Agony</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Агония Бегуна</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="At-The-Interview">At The Interview</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>На интервью</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Model-Search">Model Search</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Поиск модели</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Kellys-Agony">Kelly’s Agony</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Келли агония</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Christmas-Day-Accident">Christmas Day Accident</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Рождественский несчастный случай</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Judy-and-Davids-Valentines-Night">Judy and David’s Valentine’s Night</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>День святого Валентина Джуди и Дэвида</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Easter-Bunny">Easter Bunny</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Пасхальный заяц</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Suzys-Schoolnight">Suzy’s Schoolnight</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Школьная ночь Сюзи</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="At-The-Counter">At The Counter</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>На счетчике</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Janies-Toilet-Torture">Janie’s Toilet Torture</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Пытка Джени в туалете</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Steff-Likes-To-Hold-It">Steff Likes To Hold It</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Стефф любит держать это</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="St-Valentines-Day-Pee">St. Valentine’s Day Pee</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Писать на День святого Валентина</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Army-Girl">Army Girl</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Армейская девушка</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Long,-Hot,-Summer">Long, Hot, Summer…</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Долгое, жаркое, лето…</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Halloween-Fright-Night!">Hallowe’en Fright Night!</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Hallowe’en Fright Night!</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Waiting-and-Waiting">Waiting and Waiting…</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Ожидание и ожидание…</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Auld-Lang-Syne">Auld Lang Syne</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Доброе старое время</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Rosies-Night-Out">Rosie’s Night Out</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Ночь Рози</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Sophia-On-Stage">Sophia On Stage</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>София на сцене</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="New-Years-Eve">New Year’s Eve</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Канун Нового года</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Friendly-Encounter">Friendly Encounter</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Дружеская встреча</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="At-The-Desk">At The Desk</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>За партой</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Blind-Date">Blind Date</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Свидание в слепую</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Locked-Out!">Locked Out!</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Заблокировано!</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Bursting-All-Night">Bursting All Night</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Взрыв всю ночь</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="The-Candidate">The Candidate</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Кандидат</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Im-Lost">I’m Lost</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Я потерялся</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Encounter-At-The-Beach">Encounter At The Beach</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Встреча на пляже</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="That-Desperate-Feeling">That Desperate Feeling</Title>
 <Author slug="Neville">Neville</Author>
 <Date>Tue, 16-Dec-2008 00:00:00 UTC</Date>
+<TitleRus>Это отчаянное чувство</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="April-Showers">April Showers</Title>
@@ -6898,6 +6941,18 @@
 <Date>Sunday, 29-Feb-2004 22:00:00 UTC</Date>
 <TitleRus>Майкл и Сьюзан</TitleRus>
 </Story>
+<Story FD="FD" MD="MD" AW="AW" SE="SE">
+<Title slug="Desperate-Diving">Desperate Diving</Title>
+<Author slug="P-Maximus">P. Maximus</Author>
+<Date>Wednesday, 30-Nov-2005 22:00:00 UTC</Date>
+<TitleRus>Отчаянный дайвинг</TitleRus>
+</Story>
+<Story FD="FD" DW="DW" MA="MA">
+<Title slug="Ramonas-HollyJolly-Holiday">Ramona's Holly-Jolly Holiday</Title>
+<Author slug="P-Maximus">P. Maximus</Author>
+<Date>Thursday, 31-Aug-2006 21:00:00 UTC</Date>
+<TitleRus>Праздник Рамоны</TitleRus>
+</Story>
 <Story FD="FD" AW="AW" BW="BW" HU="HU">
 <Title slug="My-Story">My Story</Title>
 <Author slug="Pampers">Pampers</Author>
@@ -7264,6 +7319,12 @@
 <Date>Thursday, 31-Jan-2008 22:00:00 UTC</Date>
 <TitleRus>Дженни безумно писает ночью на фестивале под открытым небом</TitleRus>
 </Story>
+<Story FD="FD" DW="DW" MA="MA" FP="FP">
+<Title slug="Nicoles-WalkAThon-Wetting">Nicole's Walk-A-Thon Wetting</Title>
+<Author slug="Pee-in-Your-Sweats">Pee in Your Sweats</Author>
+<Date>Sunday, 31-Jul-2005 21:00:00 UTC</Date>
+<TitleRus>Николь Walk-A-Thon писает</TitleRus>
+</Story>
 <Story FD="FD" GS="GS" FP="FP" SE="SE">
 <Title slug="A-Welcome-Home-Drink">A Welcome Home Drink</Title>
 <Author slug="Peebunnies">Peebunnies</Author>
@@ -7284,7 +7345,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="I-Can-Hold-Pee-Forever-I-Think-I-am-Ubnormal">I Can Hold Pee Forever - I Think I`m Ubnormal</Title>
-<Author slug="PeeDesperation">peedesperation</Author>
+<Author slug="experience-project/PeeDesperation">peedesperation</Author>
 <Date>Sun, 24-Aug-2008 10:23PM UTC</Date>
 <TitleRus>Я могу терпеть вечно – и я думаю, что я ненормальная!</TitleRus>
 </Story>
@@ -7335,12 +7396,6 @@
 <Author slug="PeeGuy">PeeGuy</Author>
 <Date>Friday, 31-Oct-2003 22:00:00 UTC</Date>
 <TitleRus>Трёхчасовой тур</TitleRus>
-</Story>
-<Story FD="FD" DW="DW" MA="MA" FP="FP">
-<Title slug="Nicoles-WalkAThon-Wetting">Nicole's Walk-A-Thon Wetting</Title>
-<Author slug="Pee-in-Your-Sweats">Pee in Your Sweats</Author>
-<Date>Sunday, 31-Jul-2005 21:00:00 UTC</Date>
-<TitleRus>Николь Walk-A-Thon писает</TitleRus>
 </Story>
 <Story FW="FW" MW="MW">
 <Title slug="How-Much-Do-You-Love-Me-">How Much Do You Love Me ?</Title>
@@ -7594,18 +7649,6 @@
 <Date>Friday, 28-Feb-2003 22:00:00 UTC</Date>
 <TitleRus>Шоссе</TitleRus>
 </Story>
-<Story FD="FD" MD="MD" AW="AW" SE="SE">
-<Title slug="Desperate-Diving">Desperate Diving</Title>
-<Author slug="P-Maximus">P. Maximus</Author>
-<Date>Wednesday, 30-Nov-2005 22:00:00 UTC</Date>
-<TitleRus>Отчаянный дайвинг</TitleRus>
-</Story>
-<Story FD="FD" DW="DW" MA="MA">
-<Title slug="Ramonas-HollyJolly-Holiday">Ramona's Holly-Jolly Holiday</Title>
-<Author slug="P-Maximus">P. Maximus</Author>
-<Date>Thursday, 31-Aug-2006 21:00:00 UTC</Date>
-<TitleRus>Праздник Рамоны</TitleRus>
-</Story>
 <Story FD="FD" AW="AW">
 <Title slug="The-Wet-Journey">The Wet Journey</Title>
 <Author slug="Poseidon">Poseidon</Author>
@@ -7703,12 +7746,6 @@
 <TitleRus>Напряжение мочевого пузыря в поезде</TitleRus>
 </Story>
 <Story FD="FD">
-<Title slug="Witnessed-Desperation">Witnessed Desperation</Title>
-<Author slug="ppPanties">ppPanties</Author>
-<Date>Monday, 31-May-2004 21:00:00 UTC</Date>
-<TitleRus>Свидетель отчаяния</TitleRus>
-</Story>
-<Story FD="FD">
 <Title slug="Pams-Dilemma">Pam's Dilemma</Title>
 <Author slug="PP-Watcher">PP Watcher</Author>
 <Date>Tuesday, 30-Nov-1999 22:00:00 UTC</Date>
@@ -7792,6 +7829,12 @@
 <Date>Thursday, 31-Oct-2002 22:00:00 UTC</Date>
 <TitleRus>Гипнотическая дилемма Джуди</TitleRus>
 </Story>
+<Story FD="FD">
+<Title slug="Witnessed-Desperation">Witnessed Desperation</Title>
+<Author slug="ppPanties">ppPanties</Author>
+<Date>Monday, 31-May-2004 21:00:00 UTC</Date>
+<TitleRus>Свидетель отчаяния</TitleRus>
+</Story>
 <Story FD="FD" AW="AW">
 <Title slug="My-First-Day-as-a-Receptionist-I-Peed-My-Panties">My First Day as a Receptionist I Peed My Panties</Title>
 <Author slug="Princess-Tess">Princess Tess</Author>
@@ -7815,6 +7858,42 @@
 <Author slug="QuickSilver">QuickSilver</Author>
 <Date>Fri, 31-Jan-1997 00:00:00 UTC</Date>
 <TitleRus>Мокрый и дикий первый раз</TitleRus>
+</Story>
+<Story FD="FD" AW="AW">
+<Title slug="Barbie-does-the-Dew">Barbie does the Dew</Title>
+<Author slug="RD-Winston">R.D. Winston</Author>
+<Date>Saturday, 31-Jan-2009 22:00:00 UTC</Date>
+<TitleRus>Барби делает росу</TitleRus>
+</Story>
+<Story FD="FD" AW="AW" DW="DW">
+<Title slug="Cindys-Wet-Parade">Cindy's Wet Parade</Title>
+<Author slug="RD-Winston">R.D. Winston</Author>
+<Date>Tuesday, 31-Mar-2009 21:00:00 UTC</Date>
+<TitleRus>Мокрый парад Синди</TitleRus>
+</Story>
+<Story FD="FD" AW="AW" DW="DW">
+<Title slug="A-Wet-Day-in-the-Park">A Wet Day in the Park</Title>
+<Author slug="RD-Winston">R.D. Winston</Author>
+<Date>Friday, 31-Jul-2009 21:00:00 UTC</Date>
+<TitleRus>Мокрый день в парке</TitleRus>
+</Story>
+<Story FD="FD" AW="AW" DW="DW">
+<Title slug="Pee-is-for-Party">Pee is for Party</Title>
+<Author slug="RD-Winston">R.D. Winston</Author>
+<Date>Sunday, 28-Feb-2010 22:00:00 UTC</Date>
+<TitleRus>Писить для вечеринки</TitleRus>
+</Story>
+<Story FD="FD" AW="AW" DW="DW">
+<Title slug="Phone-Wetting">Phone Wetting</Title>
+<Author slug="RD-Winston">R.D. Winston</Author>
+<Date>Monday, 31-May-2010 21:00:00 UTC</Date>
+<TitleRus>При разговоре по телефону</TitleRus>
+</Story>
+<Story FD="FD" AW="AW" DW="DW" HU="HU">
+<Title slug="A-Wet-Drive-Home">A Wet Drive Home</Title>
+<Author slug="RD-Winston">R.D. Winston</Author>
+<Date>Saturday, 31-Dec-2011 22:00:00 UTC</Date>
+<TitleRus>Мокрая дорога домой</TitleRus>
 </Story>
 <Story FD="FD" FP="FP" SE="SE">
 <Title slug="Fiona-and-I">Fiona and I</Title>
@@ -7866,55 +7945,55 @@
 </Story>
 <Story FD="FD">
 <Title slug="A-Walk-In-The-Park">A Walk In The Park</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Fri, 22-Oct-2010 11:13PM UTC</Date>
 <TitleRus>Прогулка в парке</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Another-Story">Another Story</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Sun, 24-Oct-2010 11:56AM UTC</Date>
 <TitleRus>Другая история</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Breaking-The-Record---Attempt-2">Breaking The Record - Attempt 2</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Mon, 29-Nov-2010 8:27PM UTC</Date>
 <TitleRus>Побить рекорд – Попытка номер 2</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperate-In-The-Elevator">Desperate In The Elevator</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Fri, 22-Oct-2010 8:53PM UTC</Date>
 <TitleRus>Отчаявшись в лифте</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperate-Together">Desperate Together</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Sun, 24-Oct-2010 1:29AM UTC</Date>
 <TitleRus>Вместе в отчаянии</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="No-Toilets-Days-1-3">No Toilets. Days 1-3</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Mon, 25-Oct-2010 11:02PM UTC</Date>
 <TitleRus>Туалетов нет. Дни 1-3</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Revenge">Revenge</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Sun, 24-Oct-2010 3:35PM UTC</Date>
 <TitleRus>Месть</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="The-Plane-Ride">The Plane Ride</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Sat, 23-Oct-2010 5:17PM UTC</Date>
 <TitleRus>Полёт на самолёте</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Trying-To-Break-The-Record">Trying To Break The Record</Title>
-<Author slug="Randomness27">randomness27</Author>
+<Author slug="experience-project/Randomness27">randomness27</Author>
 <Date>Mon, 25-Oct-2010 5:51PM UTC</Date>
 <TitleRus>Пытаясь побить рекорд</TitleRus>
 </Story>
@@ -7930,42 +8009,6 @@
 <Date>Monday, 28-Feb-2005 22:00:00 UTC</Date>
 <TitleRus>Офисное дело</TitleRus>
 </Story>
-<Story FD="FD" AW="AW">
-<Title slug="Barbie-does-the-Dew">Barbie does the Dew</Title>
-<Author slug="RD-Winston">R.D. Winston</Author>
-<Date>Saturday, 31-Jan-2009 22:00:00 UTC</Date>
-<TitleRus>Барби делает росу</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" DW="DW">
-<Title slug="Cindys-Wet-Parade">Cindy's Wet Parade</Title>
-<Author slug="RD-Winston">R.D. Winston</Author>
-<Date>Tuesday, 31-Mar-2009 21:00:00 UTC</Date>
-<TitleRus>Мокрый парад Синди</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" DW="DW">
-<Title slug="A-Wet-Day-in-the-Park">A Wet Day in the Park</Title>
-<Author slug="RD-Winston">R.D. Winston</Author>
-<Date>Friday, 31-Jul-2009 21:00:00 UTC</Date>
-<TitleRus>Мокрый день в парке</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" DW="DW">
-<Title slug="Pee-is-for-Party">Pee is for Party</Title>
-<Author slug="RD-Winston">R.D. Winston</Author>
-<Date>Sunday, 28-Feb-2010 22:00:00 UTC</Date>
-<TitleRus>Писить для вечеринки</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" DW="DW">
-<Title slug="Phone-Wetting">Phone Wetting</Title>
-<Author slug="RD-Winston">R.D. Winston</Author>
-<Date>Monday, 31-May-2010 21:00:00 UTC</Date>
-<TitleRus>При разговоре по телефону</TitleRus>
-</Story>
-<Story FD="FD" AW="AW" DW="DW" HU="HU">
-<Title slug="A-Wet-Drive-Home">A Wet Drive Home</Title>
-<Author slug="RD-Winston">R.D. Winston</Author>
-<Date>Saturday, 31-Dec-2011 22:00:00 UTC</Date>
-<TitleRus>Мокрая дорога домой</TitleRus>
-</Story>
 <Story FD="FD" MD="MD" DW="DW" AW="AW">
 <Title slug="Youll-Pay">You'll Pay</Title>
 <Author slug="Remos">Remos</Author>
@@ -7974,7 +8017,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="How-I-Met-My-1st-Girlfriend">How I Met My 1st Girlfriend</Title>
-<Author slug="Rexone312">Rexone312</Author>
+<Author slug="experience-project/Rexone312">Rexone312</Author>
 <Date>Wed, 01-Jun-2011 1:38AM UTC</Date>
 <TitleRus>Как я встретил свою первую подругу!</TitleRus>
 </Story>
@@ -8026,6 +8069,18 @@
 <Date>Saturday, 31-May-2003 21:00:00 UTC</Date>
 <TitleRus>Садоводство</TitleRus>
 </Story>
+<Story FD="FD" WE="WE">
+<Title slug="Tunnel-Trauma-Part-1">Tunnel Trauma. Part 1</Title>
+<Author slug="Robert--May">"Robert &amp; May"</Author>
+<Date>Wednesday, 30-Apr-2003 21:00:00 UTC</Date>
+<TitleRus>Травма в тоннеле (часть 1)</TitleRus>
+</Story>
+<Story FD="FD" WE="WE">
+<Title slug="Tunnel-Trauma-Part-2">Tunnel Trauma. Part 2</Title>
+<Author slug="Robert--May">"Robert &amp; May"</Author>
+<Date>Wednesday, 30-Apr-2003 21:00:00 UTC</Date>
+<TitleRus>Травма в тоннеле (часть 2)</TitleRus>
+</Story>
 <Story FD="FD" MD="MD" WE="WE">
 <Title slug="Wet-Weekends">Wet Weekends</Title>
 <Author slug="Robert-and-May">Robert and May</Author>
@@ -8049,18 +8104,6 @@
 <Author slug="Robert-and-May">Robert and May</Author>
 <Date>Friday, 28-Feb-2003 22:00:00 UTC</Date>
 <TitleRus>Мысли</TitleRus>
-</Story>
-<Story FD="FD" WE="WE">
-<Title slug="Tunnel-Trauma-Part-1">Tunnel Trauma. Part 1</Title>
-<Author slug="Robert--May">"Robert &amp; May"</Author>
-<Date>Wednesday, 30-Apr-2003 21:00:00 UTC</Date>
-<TitleRus>Травма в тоннеле (часть 1)</TitleRus>
-</Story>
-<Story FD="FD" WE="WE">
-<Title slug="Tunnel-Trauma-Part-2">Tunnel Trauma. Part 2</Title>
-<Author slug="Robert--May">"Robert &amp; May"</Author>
-<Date>Wednesday, 30-Apr-2003 21:00:00 UTC</Date>
-<TitleRus>Травма в тоннеле (часть 2)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Way-Too-Old">Way Too Old</Title>
@@ -8119,7 +8162,7 @@
 <Story FD="FD">
 <Title slug="Intimate-Moments">Intimate Moments</Title>
 <Author slug="Roland">Roland</Author>
-<Date>Thu, 14-Mar-96 UTC</Date>
+<Date>Thu, 14-Mar-1996 00:00:00 UTC</Date>
 <TitleRus>Интимные моменты</TitleRus>
 </Story>
 <Story FD="FD">
@@ -8165,16 +8208,16 @@
 <TitleRus>Первая ночь</TitleRus>
 </Story>
 <Story FD="FD">
-<Title slug="Cultural-Exchange">Cultural Exchange</Title>
-<Author slug="Sally">Sally Yam</Author>
-<Date>Sat, 28-Feb-1998 00:00:00 UTC</Date>
-<TitleRus>По культурному обмену</TitleRus>
-</Story>
-<Story FD="FD">
 <Title slug="Sams-Story">Sam's Story (15/11/96)</Title>
 <Author slug="Sally">Sally</Author>
 <Date>Fri, 27-Dec-1996  UTC</Date>
 <TitleRus>История с Самантой</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Cultural-Exchange">Cultural Exchange</Title>
+<Author slug="Sally">Sally Yam</Author>
+<Date>Sat, 28-Feb-1998 00:00:00 UTC</Date>
+<TitleRus>По культурному обмену</TitleRus>
 </Story>
 <Story FD="FD" AW="AW" FP="FP">
 <Title slug="Jeanine">Jeanine</Title>
@@ -8242,18 +8285,6 @@
 <Date>Saturday, 31-Mar-2001 21:00:00 UTC</Date>
 <TitleRus>Застрявшая на пароме</TitleRus>
 </Story>
-<Story FD="FD">
-<Title slug="A-Vacation-Trip-Ends-With-A-Bursting-Bladder">A Vacation Trip Ends With A Bursting Bladder</Title>
-<Author slug="Sarah90">sarah90</Author>
-<Date>Wed, 04-Aug-2010 10:49AM UTC</Date>
-<TitleRus>Поездка в отпуск заканчивается разрывом мочевого пузыря</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Dating-A-Girl-In-College-Who-Never-Peed">Dating A Girl In College Who Never Peed</Title>
-<Author slug="Sarah90">sarah90</Author>
-<Date>Mon, 01-Feb-2010 1:16PM UTC</Date>
-<TitleRus>Встречаюсь с девушкой из колледжа, которая почти никогда не писила</TitleRus>
-</Story>
 <Story FD="FD" FW="FW" MA="MA">
 <Title slug="About-Town">About Town</Title>
 <Author slug="Sarah-Jane">Sarah Jane</Author>
@@ -8266,6 +8297,18 @@
 <Date>Monday, 30-Sep-2002 21:00:00 UTC</Date>
 <TitleRus>Правдивая история</TitleRus>
 </Story>
+<Story FD="FD">
+<Title slug="A-Vacation-Trip-Ends-With-A-Bursting-Bladder">A Vacation Trip Ends With A Bursting Bladder</Title>
+<Author slug="experience-project/Sarah90">sarah90</Author>
+<Date>Wed, 04-Aug-2010 10:49AM UTC</Date>
+<TitleRus>Поездка в отпуск заканчивается разрывом мочевого пузыря</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Dating-A-Girl-In-College-Who-Never-Peed">Dating A Girl In College Who Never Peed</Title>
+<Author slug="experience-project/Sarah90">sarah90</Author>
+<Date>Mon, 01-Feb-2010 1:16PM UTC</Date>
+<TitleRus>Встречаюсь с девушкой из колледжа, которая почти никогда не писила</TitleRus>
+</Story>
 <Story FD="FD" AW="AW" HU="HU">
 <Title slug="Pee-Marathon">Pee Marathon</Title>
 <Author slug="Sard">Sard</Author>
@@ -8274,7 +8317,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="My-First-Time">My First Time</Title>
-<Author slug="SasukeLover">sasukelover</Author>
+<Author slug="experience-project/SasukeLover">sasukelover</Author>
 <Date>Tue, 28-Dec-2010 11:58PM UTC</Date>
 <TitleRus>Мой первый раз</TitleRus>
 </Story>
@@ -8304,13 +8347,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="Pulled-Over">Pulled-Over</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
 <TitleRus>Вытащил</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Bad-Girl-Wet-Girl">Bad-Girl-Wet-Girl</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
 <TitleRus>Плохая девочка, мокрая девочка</TitleRus>
 </Story>
@@ -8322,43 +8365,43 @@
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-1">Making-Her-Wait-Ch-1</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Thu, 10-Nov-1994 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 1)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-2">Making-Her-Wait-Ch-2</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Sun, 20-Nov-1994 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 2)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-3">Making Her Wait Ch. 3</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Wed, 07-Dec-1994 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 3)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-4">Making Her Wait Ch. 4</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Wed, 14-Dec-1994 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 4)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-5">Making Her Wait Ch. 5</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Wed, 21-Dec-1994 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 5)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-6">Making Her Wait Ch. 6</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Wed, 28-Dec-1994 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 6)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Making-Her-Wait-Ch-7">Making Her Wait Ch. 7</Title>
-<Author slug="Sean">/Sean/</Author>
+<Author slug="Sean">Sean</Author>
 <Date>Sun, 01-Jan-1995 00:00:00 UTC</Date>
 <TitleRus>Заставляя её терпеть … (часть 7)</TitleRus>
 </Story>
@@ -8400,13 +8443,13 @@
 </Story>
 <Story FD="FD">
 <Title slug="Big-Bladder-Girl">Big Bladder Girl</Title>
-<Author slug="ShowCrystal90">showcrystal90</Author>
+<Author slug="experience-project/ShowCrystal90">showcrystal90</Author>
 <Date>Thu, 30-Jun-2011 3:52PM UTC</Date>
 <TitleRus>Девочка с большим мочевым пузырём</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="How-I-Got-Into-Holding-Pee">How I Got Into Holding Pee</Title>
-<Author slug="ShyGirl160710">shygirl160710</Author>
+<Author slug="experience-project/ShyGirl160710">shygirl160710</Author>
 <Date>Wed, 21-Jul-2010 4:32PM UTC</Date>
 <TitleRus>Как долго я всё писила и писила…</TitleRus>
 </Story>
@@ -8490,31 +8533,31 @@
 </Story>
 <Story>
 <Title slug="Hell-All-The-Day">Held It Day, And Held It Night</Title>
-<Author slug="Sparklegirl2000">Sparklegirl2000</Author>
+<Author slug="experience-project/Sparklegirl2000">Sparklegirl2000</Author>
 <Date>Sun, 02-Jan-2011 7:47PM UTC</Date>
 <TitleRus>Терпела весь день и терпела всю ночь</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Couldnnt-Hold-It-In">Couldn't Hold It In</Title>
-<Author slug="Sparklegirls2000">Sparklegirls2000</Author>
+<Author slug="experience-project/Sparklegirls2000">Sparklegirls2000</Author>
 <Date>Wed, 15-Jun-2011 5:13PM UTC</Date>
 <TitleRus>Не могла больше сдерживаться ...</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Hell-All-The-Day">Held All The Day</Title>
-<Author slug="Sparklegirls2000">Sparklegirls2000</Author>
+<Author slug="experience-project/Sparklegirls2000">Sparklegirls2000</Author>
 <Date>Sat, 28-May-2011 1:45PM UTC</Date>
 <TitleRus>Терпела весь день и терпела всю ночь</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="My-Boyfriend-Made-Me-Hold-it">My Boyfriend Made Me Hold it</Title>
-<Author slug="Sparklegirls2000">Sparklegirls2000</Author>
+<Author slug="experience-project/Sparklegirls2000">Sparklegirls2000</Author>
 <Date>Sat, 28-May-2011 2:02PM UTC</Date>
 <TitleRus>Мой парень заставил меня терпеть!</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="The-Context">The Contest</Title>
-<Author slug="Sparklegirls2000">Sparklegirls2000</Author>
+<Author slug="experience-project/Sparklegirls2000">Sparklegirls2000</Author>
 <Date>Sun, 29-May-2011 9:53AM UTC</Date>
 <TitleRus>Конкурс…</TitleRus>
 </Story>
@@ -8788,17 +8831,11 @@
 <Date>Saturday, 30-Jun-2007 21:00:00 UTC</Date>
 <TitleRus>Работа Дженни в прокате лыж (часть 1)</TitleRus>
 </Story>
-<Story FD="FD">
-<Title slug="A-Dangerous-Game">A Dangerous Game</Title>
-<Author slug="TheHoldMaster">theholdmaster</Author>
-<Date>Fri, 15-Aug-2008 00:00:00 UTC</Date>
-<TitleRus>Опасная игра</TitleRus>
-</Story>
-<Story FD="FD">
-<Title slug="Trapped-On-the-Train">Trapped On the Train</Title>
-<Author slug="TheHoldMaster">theholdmaster</Author>
-<Date>Sat, 11-Oct-2008 00:00:00 UTC</Date>
-<TitleRus>В ловушке в поезде</TitleRus>
+<Story FD="FD" MW="MW" FW="FW" EX="EX">
+<Title slug="Jennys-Job-at-the-Ski-Rental-Part-2">Jenny's Job at the Ski Rental - Part 2</Title>
+<Author slug="c-The-Golden-Alchemist">The Golden Alchemist</Author>
+<Date>Sunday, 30-Sep-2007 21:00:00 UTC</Date>
+<TitleRus>Работа Дженни в прокате лыж (часть 2)</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="My-Wet-Evening-With-Donna">My Wet Evening With Donna</Title>
@@ -8859,6 +8896,18 @@
 <Author slug="The-Profesor">The Profesor</Author>
 <Date>Fri, 10-Mar-2006 00:00:00 UTC</Date>
 <TitleRus>Проводился инкоммуникардо</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="A-Dangerous-Game">A Dangerous Game</Title>
+<Author slug="experience-project/TheHoldMaster">theholdmaster</Author>
+<Date>Fri, 15-Aug-2008 00:00:00 UTC</Date>
+<TitleRus>Опасная игра</TitleRus>
+</Story>
+<Story FD="FD">
+<Title slug="Trapped-On-the-Train">Trapped On the Train</Title>
+<Author slug="experience-project/TheHoldMaster">theholdmaster</Author>
+<Date>Sat, 11-Oct-2008 00:00:00 UTC</Date>
+<TitleRus>В ловушке в поезде</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Gillians-Biggest-Mistake">Gillian's Biggest Mistake</Title>
@@ -9350,11 +9399,13 @@
 <Title slug="My-Bulging-Bladder">Victoria's Bulging Bladder</Title>
 <Author slug="Victoria">Victoria</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Вздутый мочевой пузырь Виктории</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="My-Bulging-Bladder-again">Victoria's Bulging Bladder again</Title>
 <Author slug="Victoria">Victoria</Author>
 <Date>Monday, 01-Jan-1970 00:00:00 UTC</Date>
+<TitleRus>Вздутый мочевой пузырь Виктории опять</TitleRus>
 </Story>
 <Story MD="MD" HU="HU" AW="AW">
 <Title slug="Agony-at-Bish-Manor">Agony at Bish Manor</Title>
@@ -9384,59 +9435,59 @@
 <Title slug="A-Servant-Girls-Desperation">A Servant Girl's Desperation</Title>
 <Author slug="Von-Lewis">Von Lewis</Author>
 <Date>Tuesday, 31-Aug-2010 21:00:00 UTC</Date>
-<TitleRus>xxx</TitleRus>
+<TitleRus>Отчаяние служанки</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Come-Like-Thunder-Go-Like-Rain">Come Like Thunder, Go Like Rain</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Sun, 29-Aug-2010 8:13PM UTC</Date>
 <TitleRus>Пи-пи, как гром, пись-пись, как дождь</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Sandy-Beach">Sandy Beach</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Sat, 17-Jul-2010 11:02AM UTC</Date>
 <TitleRus>Песочный пляж</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-1">Time Turner - Part 1</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Thu, 16-Sep-2010 6:29PM UTC</Date>
 <TitleRus>Машина времени, часть 1</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-2">Time Turner - Part 2</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Thu, 23-Sep-2010 3:10PM UTC</Date>
 <TitleRus>Машина времени, часть 2</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-3">Time Turner Part 3</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Thu, 30-Sep-2010 4:02PM UTC</Date>
 <TitleRus>Машина времени, часть 3</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-4">Time Turner - Part 4</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Thu, 07-Oct-2010 3:15PM UTC</Date>
 <TitleRus>Машина времени, часть 4</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-5">Time Turner Part 5</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Mon, 11-Oct-2010 11:38AM UTC</Date>
 <TitleRus>Машина времени, часть 5</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-6">Time Turner - Part 6</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Wed, 20-Oct-2010 4:51PM UTC</Date>
 <TitleRus>Машина времени, часть 6</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Time-Turner-Part-7">Time Turner Part 7</Title>
-<Author slug="WAbbott11">wabbott11</Author>
+<Author slug="experience-project/WAbbott11">wabbott11</Author>
 <Date>Fri, 29-Oct-2010 5:22PM UTC</Date>
 <TitleRus>Машина времени, часть 7</TitleRus>
 </Story>
@@ -9566,6 +9617,12 @@
 <Date>Monday, 31-Dec-2012 22:00:00 UTC</Date>
 <TitleRus>Наконец-то одна …</TitleRus>
 </Story>
+<Story AW="AW" BW="BW" FP="FP">
+<Title slug="Samanthas-Dream">Samantha's Dream</Title>
+<Author slug="Wet-Theresa">Wet Theresa</Author>
+<Date>Wednesday, 30-Apr-2008 21:00:00 UTC</Date>
+<TitleRus>Мечта Саманты</TitleRus>
+</Story>
 <Story FD="FD">
 <Title slug="The-Joke">The Joke</Title>
 <Author slug="Wetfan">Wetfan</Author>
@@ -9580,49 +9637,43 @@
 </Story>
 <Story FD="FD">
 <Title slug="A-Day-In-The-Office">A Day In The Office</Title>
-<Author slug="Wetter18">wetter18</Author>
+<Author slug="experience-project/Wetter18">wetter18</Author>
 <Date>Mon, 03-Jan-2011 3:52AM UTC</Date>
 <TitleRus>День в офисе</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Class-Pee">Class Pee</Title>
-<Author slug="Wetter18">wetter18</Author>
+<Author slug="experience-project/Wetter18">wetter18</Author>
 <Date>Mon, 03-Jan-2011 2:44AM UTC</Date>
 <TitleRus>Пи-пи в классе</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Jocks">Jocks</Title>
-<Author slug="Wetter18">wetter18</Author>
+<Author slug="experience-project/Wetter18">wetter18</Author>
 <Date>Tue, 04-Jan-2011 12:36AM UTC</Date>
 <TitleRus>Качки</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Last-Night">Last Night</Title>
-<Author slug="Wetter18">wetter18</Author>
+<Author slug="experience-project/Wetter18">wetter18</Author>
 <Date>Tue, 04-Jan-2011 2:38AM UTC</Date>
 <TitleRus>Вчера вечером</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Morning-Fun">Morning Fun</Title>
-<Author slug="Wetter18">wetter18</Author>
+<Author slug="experience-project/Wetter18">wetter18</Author>
 <Date>Mon, 03-Jan-2011 2:04AM UTC</Date>
 <TitleRus>Утренняя забава</TitleRus>
 </Story>
-<Story AW="AW" BW="BW" FP="FP">
-<Title slug="Samanthas-Dream">Samantha's Dream</Title>
-<Author slug="Wet-Theresa">Wet Theresa</Author>
-<Date>Wednesday, 30-Apr-2008 21:00:00 UTC</Date>
-<TitleRus>Мечта Саманты</TitleRus>
-</Story>
 <Story FD="FD">
 <Title slug="The-Mountain-House">The Mountain House</Title>
-<Author slug="WiiChiick86">WiiChiick86</Author>
+<Author slug="experience-project/WiiChiick86">WiiChiick86</Author>
 <Date>Sun, 04-Oct-2009 3:13PM UTC</Date>
 <TitleRus>Дом в горах</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Walking-In-the-Woods">Walking In the Woods</Title>
-<Author slug="WiiChiick86">WiiChiick86</Author>
+<Author slug="experience-project/WiiChiick86">WiiChiick86</Author>
 <Date>Fri, 02-Oct-2009 10:58PM UTC</Date>
 <TitleRus>Прогулка по лесу</TitleRus>
 </Story>
@@ -9652,7 +9703,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="In-Our-Last-Episode">In-Our-Last-Episode</Title>
-<Author slug="William-Abbott">William-Abbott</Author>
+<Author slug="William-Abbott">William Abbott</Author>
 <Date>Sat, 30-Sep-2000 00:00:00 UTC</Date>
 <TitleRus>В нашем последнем эпизоде…</TitleRus>
 </Story>
@@ -9664,37 +9715,37 @@
 </Story>
 <Story FD="FD">
 <Title slug="Another-Desperate-Adventure">Another Desperate Adventure</Title>
-<Author slug="Wriggling">wriggling</Author>
+<Author slug="experience-project/Wriggling">wriggling</Author>
 <Date>Sat, 25-Sep-2010 8:48AM UTC</Date>
 <TitleRus>Ещё одно отчаянное приключение</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Impromptu-Volume-Hold">Impromptu Volume Hold</Title>
-<Author slug="Wriggling">wriggling</Author>
+<Author slug="experience-project/Wriggling">wriggling</Author>
 <Date>Mon, 09-Aug-2010 10:02AM UTC</Date>
 <TitleRus>Импровизированное удержание объёма</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="New-Record">New Record</Title>
-<Author slug="Wriggling">wriggling</Author>
+<Author slug="experience-project/Wriggling">wriggling</Author>
 <Date>Mon, 22-Aug-2011 7:53AM UTC</Date>
 <TitleRus>Новый рекорд</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Plans-For-A-Volume-Hold">Plans For A Volume Hold</Title>
-<Author slug="Wriggling">wriggling</Author>
+<Author slug="experience-project/Wriggling">wriggling</Author>
 <Date>Tue, 03-Aug-2010 7:38AM UTC</Date>
 <TitleRus>Планы по удержанию объёма</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Second-Volume-Hold">Second Volume Hold</Title>
-<Author slug="Wriggling">wriggling</Author>
+<Author slug="experience-project/Wriggling">wriggling</Author>
 <Date>Mon, 16-Aug-2010 11:19AM UTC</Date>
 <TitleRus>Удержание второго объёма</TitleRus>
 </Story>
 <Story FD="FD">
 <Title slug="Desperate-At-The-Gym">Desperate At The Gym</Title>
-<Author slug="Wriggling">wriggling</Author>
+<Author slug="experience-project/Wriggling">wriggling</Author>
 <Date>Thu, 29-Jul-2010 6:40AM UTC</Date>
 <TitleRus>Отчаявшись в спортзале</TitleRus>
 </Story>
@@ -9706,7 +9757,7 @@
 </Story>
 <Story FD="FD">
 <Title slug="The-Bus-Journey">The Bus Journey</Title>
-<Author slug="XxPorprixX">XxPorprixX</Author>
+<Author slug="experience-project/XxPorprixX">XxPorprixX</Author>
 <Date>Sun, 05-Dec-2010 9:43AM UTC</Date>
 <TitleRus>Автобусное путешествие</TitleRus>
 </Story>
